@@ -1,4 +1,4 @@
 Electromagnetic field due to a moving point charge particle - Lienard-Wiechert potential.
 Output is eE and eB vectors in (GeV) where "e" is the magnitude of the electron charge.
 
-Required ROOT.
+Requires ROOT.
